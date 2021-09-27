@@ -7,3 +7,5 @@
 - 🔗 `No Need To Setup...Just Put This Plugin On Behavior Pack Server File`
 # ⭐ Creator
 [PrinceHarooo](https://github.com/PrinceHarooo)
+
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/695494618212728872.png" alt="Discord" /> </p>
