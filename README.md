@@ -6,4 +6,4 @@ Plugin That Can Show Chat Log In Server Panel
 - Install This Plugin On Behavior Pack Server File
 - No Need To Setup...Just Put This Plugin On Behavior Pack Server File
 # Creator
-PrinceHarooo[https://github.com/PrinceHarooo]
+[PrinceHarooo](https://github.com/PrinceHarooo)
